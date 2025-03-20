@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="create_your_account">Create Your\nAccount</string>
+    <string name="full_name">Full Name</string>
+    <string name="john_smith">John Smith</string>
+    <string name="phone_or_gmail">Phone or Gmail</string>
+    <string name="joydeo_gmail_com">Joydeo@gmail.com</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="sign_up">SIGN UP</string>
+</resources>
